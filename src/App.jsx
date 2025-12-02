@@ -504,10 +504,10 @@ const App = () => {
         })}
       </div>
       {/*  ChatGPT tasks for Props */}
-      <JobCard company="Google" position="Frontend Developer" salary="$120k" />
+      {/* <JobCard company="Google" position="Frontend Developer" salary="$120k" />
       &nbsp;
       <hr />
-      <JobCard company="Meta" position="UI Engineer" salary="$110k" />
+      <JobCard company="Meta" position="UI Engineer" salary="$110k" /> */}
     </>
   );
 };
