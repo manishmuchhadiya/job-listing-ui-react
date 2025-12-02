@@ -36,6 +36,7 @@ Perfect for practicing **React components, props and card layouts**.
 ---
 
 ## 📂 Folder Structure
+```bash
 src/
 │
 ├── assets/
@@ -48,7 +49,7 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
-
+```
 
 ---
 
