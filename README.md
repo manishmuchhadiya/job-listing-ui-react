@@ -11,8 +11,6 @@ Perfect for practicing **React components, props and card layouts**.
 
 <img width="980" height="639" alt="image" src="https://github.com/user-attachments/assets/32747462-0360-44cb-a0f1-ee2e26bd3a56" />
 
-
-
 ---
 
 ## 🚀 Features
@@ -60,9 +58,20 @@ Clone the project:
 ```bash
 git clone https://github.com/manishmuchhadiya/job-listing-ui-react
 cd job-listing-ui-react
-
+```
+Install dependencies:
+```bash
 npm install
-
+```
+Start development server:
+```bash
 npm run dev
+```
 
-npm run build
+🛠️ Tech Stack
+
+⚛️ React.js (Vite)
+
+🎨 Tailwind CSS
+
+🟨 JavaScript (ES6+)
