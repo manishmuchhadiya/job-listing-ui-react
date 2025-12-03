@@ -6,6 +6,7 @@ This project recreates professional job listing cards similar to Amazon, Google,
 Perfect for practicing **React components, props and card layouts**.
 
 ---
+## Live Link <a href="job-listing-ui-react.netlify.app">job-listing-ui-react.netlify.app</a>
 
 ## 📸 Project Output
 
@@ -38,7 +39,7 @@ Perfect for practicing **React components, props and card layouts**.
 src/
 │
 ├── assets/
-|
+│
 ├── components/
 │ └── JobCard.jsx
 │ └── Card.jsx
