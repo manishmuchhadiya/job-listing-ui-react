@@ -7,7 +7,7 @@ Perfect for practicing **React components, props and card layouts**.
 
 ---
 ## 🔗 Live Demo
-[Click here to view the live project](job-listing-ui-react.netlify.app)
+[Click here to view the live project](https://job-listing-ui-react.netlify.app/)
 
 
 ## 📸 Project Output
